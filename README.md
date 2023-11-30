@@ -1,6 +1,6 @@
 Me llamo cristian lee, desarrollador php y java 
 
-Este es un proyecto front en desarro, con vuejs 3 y vite.
+Este es un proyecto backend con micro servicios en desarro, con laravel 10 y php 8.1
 
 
 ## License
